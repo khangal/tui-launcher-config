@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BEHAVIOR>
-<double_tap_lock value="true"/>
-<double_tap_cmd value=""/>
+<double_tap_lock value="false"/>
+<double_tap_cmd value="clear"/>
 <random_play value="true"/>
 <songs_folder value=""/>
 <songs_from_mediastore value="true"/>

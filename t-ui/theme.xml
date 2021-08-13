@@ -24,7 +24,7 @@
 <battery_color_medium value="#268bd2"/>
 <battery_color_low value="#859900"/>
 <time_color value="#268bd2"/>
-<storage_color value="#d33682"/>
+<storage_color value="#839496"/>
 <ram_color value="#859900"/>
 <network_info_color value="#268bd2"/>
 <toolbar_bg value="#002b36"/>
